@@ -1,0 +1,12 @@
+packages: [
+  ".bin"
+  "advanced-open-file"
+  "angularjs"
+  "atom-html-preview"
+  "atom-live-server"
+  "atom-typescript"
+  "emmet"
+  "linter"
+  "package-sync"
+  "terminal-panel"
+]
