@@ -9,4 +9,8 @@ packages: [
   "linter"
   "package-sync"
   "terminal-panel"
+  "color-picker"
+  "git-plus"
+  "keyboard-localization"
+  "tree-view-git-branch"
 ]
